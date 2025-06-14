@@ -73,10 +73,7 @@
     <a href="www.linkedin.com/in/
 raj-shivade25
 Vanity URL name
-" target="www.linkedin.com/in/
-raj-shivade25
-Vanity URL name
-">LinkedIn</a> 
+" target="_blank">LinkedIn</a> 
   
   </p>
 
