@@ -64,18 +64,6 @@
     This analysis reveals the complexity of global energy dynamics, highlighting disparities in energy efficiency and environmental impact across countries. The findings support the need for data-backed policies focused on clean energy transitions and sustainable development. Addressing emissions, consumption, and production disparities will be crucial for global climate and energy goals.
   </p>
 
-  <h2>Author</h2>
-  <p>
-    <strong>Raj Shivade</strong><br>
-    B.Tech in Data Science and Engineering<br>
-    G H Raisoni College of Engineering and Management<br>
-    Passionate about using data to drive sustainability and policy decisions<br>
-    <a href="www.linkedin.com/in/
-raj-shivade25
-Vanity URL name
-" target="_blank">LinkedIn</a> 
   
-  </p>
-
 </body>
 </html>
