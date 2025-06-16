@@ -19,8 +19,9 @@
   <h2>Entity-Relationship Structure</h2>
   <p>The data model is organized around a central <strong>Country</strong> table with the following related tables:</p>
   <ul>
-    <li>Population</li>
+    <li>Country</li>
     <li>Production</li>
+     <li>Population</li>
     <li>Consumption</li>
     <li>Emission</li>
     <li>GDP</li>
