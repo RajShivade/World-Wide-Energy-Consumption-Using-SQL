@@ -1,5 +1,5 @@
 
-  <h1>🌐 World Wide Energy Consumption Analysis</h1>
+  <h1>🌐 World Wide Energy Consumption Analysis.</h1>
 
   <h2>Overview</h2>
   <p>
