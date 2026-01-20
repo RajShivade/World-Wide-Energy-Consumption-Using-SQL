@@ -1,12 +1,12 @@
 
   <h1>🌐 World Wide Energy Consumption Analysis.</h1>
 
-  <h2>Overview</h2>
+  <h2>Overview:</h2>
   <p>
     This project presents a comprehensive analysis of global energy trends using structured SQL queries. It examines energy production, consumption, emissions, GDP, and population data across various countries and years. The objective is to extract actionable insights into global energy behavior and support data-driven strategies for sustainable energy policy and economic planning.
   </p>
 
-  <h2>Objectives</h2>
+  <h2>Objectives:</h2>
   <ul>
     <li>Assess the relationship between energy sources and environmental emissions.</li>
     <li>Identify top contributors to global greenhouse gas emissions and their patterns.</li>
@@ -16,7 +16,7 @@
     <li>Highlight trends in global emissions, production, and consumption to inform sustainable development.</li>
   </ul>
 
-  <h2>Entity-Relationship Structure</h2>
+  <h2>Entity-Relationship Structure:</h2>
   <p>The data model is organized around a central <strong>Country</strong> table with the following related tables:</p>
   <ul>
     <li>Country</li>
@@ -28,7 +28,7 @@
   </ul>
   <p>All child tables maintain a one-to-many relationship with the Country table, ensuring normalized structure and efficient querying.</p>
 
-  <h2>Methodology</h2>
+  <h2>Methodology:</h2>
   <p>The project uses SQL queries to extract, join, and analyze data from normalized relational tables. Analytical focus areas include:</p>
   <ul>
     <li>Country-level energy production and consumption trends</li>
@@ -40,7 +40,7 @@
   </ul>
   <p>Results are visualized using PowerPoint, with query outputs summarized using screenshots and tabulated results.</p>
 
-  <h2>Key Findings</h2>
+  <h2>Key Findings:</h2>
   <div class="highlight">
     <ul>
       <li><strong>Top Energy Producers:</strong> China, USA, Russia</li>
@@ -53,17 +53,24 @@
     </ul>
   </div>
 
-  <h2>Technologies Used</h2>
+  <h2>Technologies Used:</h2>
   <ul>
     <li><strong>Database:</strong> MySQL / SQL Server</li>
     <li><strong>Language:</strong> SQL (Structured Query Language)</li>
     <li><strong>Tools:</strong> PowerPoint for visualization, Excel/CSV for data</li>
   </ul>
 
-  <h2>Conclusion</h2>
+  <h2>Conclusion:</h2>
   <p>
     This analysis reveals the complexity of global energy dynamics, highlighting disparities in energy efficiency and environmental impact across countries. The findings support the need for data-backed policies focused on clean energy transitions and sustainable development. Addressing emissions, consumption, and production disparities will be crucial for global climate and energy goals.
   </p>
+
+
+## 👨‍💻 Author :-
+
+**Raj Shivade**  
+📘 [LinkedIn](http://www.linkedin.com/in/raj-shivade25)  
+💻 [GitHub](https://github.com/RajShivade)
 
   
 </body>
